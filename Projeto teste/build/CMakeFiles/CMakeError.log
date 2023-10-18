@@ -1,0 +1,235 @@
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Antonio/VS Code/Projeto teste/build/CMakeFiles/CMakeScratch/TryCompile-kr9kez
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_39dbf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft(R) Build Engine versão 16.11.2+f32259642 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.29.30152 para x64
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  CMakeCCompilerABI.c
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_39dbf.dir\Debug\\" /Fd"cmTC_39dbf.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -mcpu=cortex-m0plus -mthumb -Og "C:\Program Files\Raspberry Pi\Pico SDK v1.5.1\cmake\share\cmake-3.25\Modules\CMakeCCompilerABI.c"
+cl : linha de comando warning D9035: opção 'Og' foi preterida e será removida em uma versão futura [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-kr9kez\cmTC_39dbf.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mcpu=cortex-m0plus' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-kr9kez\cmTC_39dbf.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mthumb' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-kr9kez\cmTC_39dbf.vcxproj]
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'kernel32.lib' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-kr9kez\cmTC_39dbf.vcxproj]
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Antonio/VS Code/Projeto teste/build/CMakeFiles/CMakeScratch/TryCompile-29rppe
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_29fa8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft(R) Build Engine versão 16.11.2+f32259642 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.29.30152 para x64
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  testCCompiler.c
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_29fa8.dir\Debug\\" /Fd"cmTC_29fa8.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -mcpu=cortex-m0plus -mthumb -Og "C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-29rppe\testCCompiler.c"
+cl : linha de comando warning D9035: opção 'Og' foi preterida e será removida em uma versão futura [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-29rppe\cmTC_29fa8.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mcpu=cortex-m0plus' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-29rppe\cmTC_29fa8.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mthumb' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-29rppe\cmTC_29fa8.vcxproj]
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'kernel32.lib' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-29rppe\cmTC_29fa8.vcxproj]
+
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Antonio/VS Code/Projeto teste/build/CMakeFiles/CMakeScratch/TryCompile-zxlnov
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_e325d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft(R) Build Engine versão 16.11.2+f32259642 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.29.30152 para x64
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  CMakeCCompilerABI.c
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e325d.dir\Debug\\" /Fd"cmTC_e325d.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -mcpu=cortex-m0plus -mthumb -Og "C:\Program Files\Raspberry Pi\Pico SDK v1.5.1\cmake\share\cmake-3.25\Modules\CMakeCCompilerABI.c"
+cl : linha de comando warning D9035: opção 'Og' foi preterida e será removida em uma versão futura [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-zxlnov\cmTC_e325d.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mcpu=cortex-m0plus' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-zxlnov\cmTC_e325d.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mthumb' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-zxlnov\cmTC_e325d.vcxproj]
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'kernel32.lib' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-zxlnov\cmTC_e325d.vcxproj]
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Antonio/VS Code/Projeto teste/build/CMakeFiles/CMakeScratch/TryCompile-w3w0ny
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_203e8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft(R) Build Engine versão 16.11.2+f32259642 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.29.30152 para x64
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  testCCompiler.c
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_203e8.dir\Debug\\" /Fd"cmTC_203e8.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -mcpu=cortex-m0plus -mthumb -Og "C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-w3w0ny\testCCompiler.c"
+cl : linha de comando warning D9035: opção 'Og' foi preterida e será removida em uma versão futura [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-w3w0ny\cmTC_203e8.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mcpu=cortex-m0plus' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-w3w0ny\cmTC_203e8.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mthumb' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-w3w0ny\cmTC_203e8.vcxproj]
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'kernel32.lib' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-w3w0ny\cmTC_203e8.vcxproj]
+
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Antonio/VS Code/Projeto teste/build/CMakeFiles/CMakeScratch/TryCompile-1xlwvb
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_66aab.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft(R) Build Engine versão 16.11.2+f32259642 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.29.30152 para x64
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  CMakeCCompilerABI.c
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_66aab.dir\Debug\\" /Fd"cmTC_66aab.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -mcpu=cortex-m0plus -mthumb -Og "C:\Program Files\Raspberry Pi\Pico SDK v1.5.1\cmake\share\cmake-3.25\Modules\CMakeCCompilerABI.c"
+cl : linha de comando warning D9035: opção 'Og' foi preterida e será removida em uma versão futura [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-1xlwvb\cmTC_66aab.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mcpu=cortex-m0plus' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-1xlwvb\cmTC_66aab.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mthumb' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-1xlwvb\cmTC_66aab.vcxproj]
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'kernel32.lib' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-1xlwvb\cmTC_66aab.vcxproj]
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Antonio/VS Code/Projeto teste/build/CMakeFiles/CMakeScratch/TryCompile-dudmlh
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_e0237.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft(R) Build Engine versão 16.11.2+f32259642 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.29.30152 para x64
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  testCCompiler.c
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e0237.dir\Debug\\" /Fd"cmTC_e0237.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -mcpu=cortex-m0plus -mthumb -Og "C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-dudmlh\testCCompiler.c"
+cl : linha de comando warning D9035: opção 'Og' foi preterida e será removida em uma versão futura [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-dudmlh\cmTC_e0237.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mcpu=cortex-m0plus' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-dudmlh\cmTC_e0237.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mthumb' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-dudmlh\cmTC_e0237.vcxproj]
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'kernel32.lib' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-dudmlh\cmTC_e0237.vcxproj]
+
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Antonio/VS Code/Projeto teste/build/CMakeFiles/CMakeScratch/TryCompile-xl24vo
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_1177a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft(R) Build Engine versão 16.11.2+f32259642 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.29.30152 para x64
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  CMakeCCompilerABI.c
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1177a.dir\Debug\\" /Fd"cmTC_1177a.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -mcpu=cortex-m0plus -mthumb -Og "C:\Program Files\Raspberry Pi\Pico SDK v1.5.1\cmake\share\cmake-3.25\Modules\CMakeCCompilerABI.c"
+cl : linha de comando warning D9035: opção 'Og' foi preterida e será removida em uma versão futura [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-xl24vo\cmTC_1177a.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mcpu=cortex-m0plus' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-xl24vo\cmTC_1177a.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mthumb' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-xl24vo\cmTC_1177a.vcxproj]
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'kernel32.lib' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-xl24vo\cmTC_1177a.vcxproj]
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Antonio/VS Code/Projeto teste/build/CMakeFiles/CMakeScratch/TryCompile-u3zhew
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_34ff9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft(R) Build Engine versão 16.11.2+f32259642 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.29.30152 para x64
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  testCCompiler.c
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_34ff9.dir\Debug\\" /Fd"cmTC_34ff9.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -mcpu=cortex-m0plus -mthumb -Og "C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-u3zhew\testCCompiler.c"
+cl : linha de comando warning D9035: opção 'Og' foi preterida e será removida em uma versão futura [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-u3zhew\cmTC_34ff9.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mcpu=cortex-m0plus' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-u3zhew\cmTC_34ff9.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mthumb' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-u3zhew\cmTC_34ff9.vcxproj]
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'kernel32.lib' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-u3zhew\cmTC_34ff9.vcxproj]
+
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+arm-none-eabi-g++.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Antonio/VS Code/Projeto teste/build/CMakeFiles/CMakeScratch/TryCompile-mxvt7y
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_3ed86.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft(R) Build Engine versão 16.11.2+f32259642 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.29.30152 para x64
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  CMakeCCompilerABI.c
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3ed86.dir\Debug\\" /Fd"cmTC_3ed86.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -mcpu=cortex-m0plus -mthumb -Og "C:\Program Files\Raspberry Pi\Pico SDK v1.5.1\cmake\share\cmake-3.25\Modules\CMakeCCompilerABI.c"
+cl : linha de comando warning D9035: opção 'Og' foi preterida e será removida em uma versão futura [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-mxvt7y\cmTC_3ed86.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mcpu=cortex-m0plus' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-mxvt7y\cmTC_3ed86.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mthumb' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-mxvt7y\cmTC_3ed86.vcxproj]
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'kernel32.lib' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-mxvt7y\cmTC_3ed86.vcxproj]
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Antonio/VS Code/Projeto teste/build/CMakeFiles/CMakeScratch/TryCompile-t4bwbu
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_fa988.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft(R) Build Engine versão 16.11.2+f32259642 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.29.30152 para x64
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  testCCompiler.c
+  cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fa988.dir\Debug\\" /Fd"cmTC_fa988.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue  -mcpu=cortex-m0plus -mthumb -Og "C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-t4bwbu\testCCompiler.c"
+cl : linha de comando warning D9035: opção 'Og' foi preterida e será removida em uma versão futura [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-t4bwbu\cmTC_fa988.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mcpu=cortex-m0plus' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-t4bwbu\cmTC_fa988.vcxproj]
+cl : linha de comando warning D9002: ignorando opção desconhecida '-mthumb' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-t4bwbu\cmTC_fa988.vcxproj]
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'kernel32.lib' [C:\Users\Antonio\VS Code\Projeto teste\build\CMakeFiles\CMakeScratch\TryCompile-t4bwbu\cmTC_fa988.vcxproj]
+
+
+
